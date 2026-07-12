@@ -5,7 +5,6 @@ Functional Test Engineer at Amdocs with experience in telecom applications, func
 -> About Me
 
 - Functional Test Engineer at Amdocs
-- Working on AT&T Telecom projects
 - Experience with Robot Framework, SQL Developer, Postman, GitLab, and Cursor
 - Former Research Intern at CSIR–Central Road Research Institute
 - Interested in Product Engineering, Cloud Technologies, and Embedded Systems
