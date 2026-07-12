@@ -1,13 +1,13 @@
 Hi, I'm Bhavika Arora
 
-Functional Test Engineer at Amdocs with experience in telecom applications, functional testing, automation testing, SQL, API testing, and embedded systems.
+Functional Test Engineer at Amdocs with experience in functional testing, automation testing, SQL, API testing, and telecom applications. Former Research Intern at CSIR–Central Road Research Institute with hands-on experience in embedded systems and automotive display solutions.
 
 -> About Me
 
 - Functional Test Engineer at Amdocs
 - Experience with Robot Framework, SQL Developer, Postman, GitLab, and Cursor
 - Former Research Intern at CSIR–Central Road Research Institute
-- Interested in Product Engineering, Cloud Technologies, and Embedded Systems
+- Passionate about building reliable software solutions and continuously learning cloud technologies, automation, and embedded systems.
 
 -> Technical Skills
 
@@ -19,7 +19,6 @@ Functional Test Engineer at Amdocs with experience in telecom applications, func
 - Python
 - SQL
 
-
 ->Testing
 - Functional Testing
 - Regression Testing
@@ -27,12 +26,23 @@ Functional Test Engineer at Amdocs with experience in telecom applications, func
 - API Testing
 - Migration Testing
 
+-> Current Focus
+- Automation Testing
+- API Testing
+- SQL Optimization
+- Cloud Technologies
+
+
 ->Tools
 - Robot Framework
 - SQL Developer
 - Postman
 - GitLab
 - Cursor
+
+->Featured Projects
+- AR-HUD Prototype using STM32 and Arduino
+- Smart Home Automation using Arduino
 
 
 ->Embedded Systems
